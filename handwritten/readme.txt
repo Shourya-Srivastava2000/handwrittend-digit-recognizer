@@ -1,5 +1,4 @@
-I have tried to build a special type of deep neural network,
-i.e. the Convolutional Neural Networks
+I have tried to build a CNN deep network model
 which is able to read the image of a digit and guess, given a certain confidence
 level, what digit is in the photo.
 I have also built a GUI which allows for an individual to draw a digit and
